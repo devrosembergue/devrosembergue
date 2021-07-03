@@ -1,16 +1,14 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rosembergue</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="rosemberguedev" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working on [ePharma](https://github.com/devrosembergue)
 
 - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
 
-- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
-- 📫 How to reach me **maykbrito@gmail.com**
+- 📫 How to reach me **rosemberguelm@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
