@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ePharma](https://github.com/devrosembergue)
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 All of my projects are available at [devrosembergue](https://github.com/devrosembergue)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
